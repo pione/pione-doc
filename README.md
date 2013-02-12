@@ -25,15 +25,15 @@ or
 
 If you want to generate HTML files,
 
-   rake manula:ja:html
+    rake manula:ja:html
 
 If you want to generate PDF,
 
-   rake manual:ja:pdf
+    rake manual:ja:pdf
 
 And you want to generate others, see rake's task list.
 
-   rake -T
+    rake -T
 
 ## Contribute
 

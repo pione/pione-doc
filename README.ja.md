@@ -27,15 +27,15 @@ pione-doc はPIONEに関するドキュメント及びその生成機能をま�
 
 HTMLファイルを生成する場合：
 
-   rake manula:ja:html
+    rake manula:ja:html
 
 PDFファイルを生成する場合：
 
-   rake manual:ja:pdf
+    rake manual:ja:pdf
 
 他のドキュメントの生成については、下記でrakeタスクを確認して下さい。
 
-   rake -T
+    rake -T
 
 ## 貢献
 
